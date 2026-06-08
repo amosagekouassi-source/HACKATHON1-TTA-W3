@@ -135,4 +135,4 @@ git clone https://github.com/amosagekouassi-source/HACKATHON1-TTA-W3
 
 ## Auteurs
 
-Projet réalisé dans le cadre du **Hackathon TTA — W3**
+Projet réalisé dans le cadre du **Hackathon TTA — W3** par Skills-Winners
